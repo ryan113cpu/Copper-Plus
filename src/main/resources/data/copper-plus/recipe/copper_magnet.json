@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IWI",
+    "WCW",
+    " W "
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "W": "copper-plus:copper_wire",
+    "C": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "copper-plus:copper_magnet",
+    "count": 1
+  }
+}

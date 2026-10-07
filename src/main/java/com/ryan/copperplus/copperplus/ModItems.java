@@ -25,6 +25,12 @@ public class ModItems {
             new Item.Properties()
     );
 
+    public static final Item COPPER_MAGNET = register(
+            ModItemIds.COPPER_MAGNET,
+            CopperMagnetItem::new,
+            new Item.Properties()
+    );
+
     public static void initialize() {
     }
 }
