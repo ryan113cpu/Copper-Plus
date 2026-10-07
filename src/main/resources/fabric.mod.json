@@ -12,6 +12,9 @@
   "entrypoints": {
     "main": [
       "com.ryan.copperplus.copperplus.Main"
+    ],
+    "client": [
+      "com.ryan.copperplus.copperplus.Client"
     ]
   },
   "mixins": [
