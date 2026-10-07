@@ -11,7 +11,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.ryan.copperplus.copper-plus.Main"
+      "com.ryan.copperplus.copperplus.Main"
     ]
   },
   "mixins": [

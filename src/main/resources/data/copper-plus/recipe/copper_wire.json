@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CC",
+    "I ",
+    "CC"
+  ],
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "I": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "copper-plus:copper_wire",
+    "count": 4
+  }
+}
